@@ -1,4 +1,3 @@
-```
 $ docker-compose build
 $ docker-compose pull
 $ docker-compose up
@@ -22,4 +21,3 @@ $ curl http://localhost:8080/api/coffeeshops/
     }
   ]
 }
-```
